@@ -54,6 +54,28 @@
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 
   <br>
+   <h3 align="center">Version Control</h3>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GH" />
+</div>
+
+<br>
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=faisalpjm&theme=dark)](https://git.io/streak-stats)
+  
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalpjm&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sfaisalpjm&layout=compact&theme=dracula" />
+</div>
+
+
+---
 
   <h3 align="center">Languages</h3>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
