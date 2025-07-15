@@ -72,9 +72,8 @@
 ---
 
 <h3 align="center">📈 GitHub Stats</h3>
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=faisalpjm&theme=dark)](https://git.io/streak-stats)
-</p>
+<p align="center"> 
+  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalpjm&layout=compact&theme=dracula" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=faisalpjm&layout=compact&theme=dracula" alt="GitHub Stats" />
