@@ -1,6 +1,6 @@
 # Ha! Saya Faisal ✌️
 
-Selamat datang di profil GitHub saya! Saya adalah seorang [Profesi Anda, misalnya: Web Developer, Data Scientist, Mahasiswa IT] yang tertarik pada [Minat Utama Anda, misalnya: pengembangan aplikasi web, machine learning, desain UI/UX].
+Saya percaya bahwa setiap baris kode memiliki cerita, dan saya senang menceritakan kisah melalui proyek-proyek saya. Di sini Anda akan menemukan perjalanan saya dalam belajar, membangun, dan berinovasi.
 
 ---
 ### 🛠️ Teknologi dan Alat yang Saya Kuasai
