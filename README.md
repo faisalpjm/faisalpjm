@@ -26,10 +26,10 @@ Berikut adalah beberapa teknologi yang sering saya gunakan:
 ---
 ### 💡 Saat Ini Saya Sedang...
 
-* 💻 Belajar [Topik/Teknologi Baru]
-* 🎯 Mengerjakan proyek [Nama Proyek Jika Mau Disebutkan]
-* 🌱 Mencari peluang kolaborasi dalam [Jenis Proyek/Teknologi]
-* 📫 Selalu terbuka untuk diskusi tentang [Topik Menarik Anda]
+* 💻 Belajar 
+* 🎯 Mengerjakan proyek 
+* 🌱 Mencari peluang kolaborasi 
+* 📫 Selalu terbuka untuk diskusi 
 
 ---
 ### 📫 Mari Terhubung!
