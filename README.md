@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm FAISAL ZAILANI 👋</h1>
-<h3 align="center">Front End Developer | #KNTL Kids Need To Learn 🐧</h3>
+<h1 align="center">Hi, I'm FAISAL ZAILANI ✌️</h1>
+<h3 align="center">Saya percaya pada kekuatan teknologi untuk memecahkan masalah dan menciptakan inovasi. Mari kita jelajahi dunia kode bersama!.
+</h3>
 
 ---
 
